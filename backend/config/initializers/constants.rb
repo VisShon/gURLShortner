@@ -1,0 +1,8 @@
+# config/initializers/constants.rb
+
+# Status Codes
+NOT_FOUND = 404
+INTERNAL_SERVER_ERROR = 500
+REDIRECT_URL = 302
+UNPROCESSABLE_CONTENT = 422
+OK = 200
